@@ -1,9 +1,8 @@
 {
-    "name": "botwhaita",
+    "name": "botdichliguyss",
     "version": "3.0.0",
     "description": "enjoy",
     "main": "index.js",
-    "type": "module",
     "directories": {
         "lib": "lib",
         "src": "src",
